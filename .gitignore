@@ -1,0 +1,14 @@
+node_modules
+bower_components
+.env
+.tmp
+.idea
+.project
+.vscode
+.DS_Store
+npm-debug.log*
+*.iml
+react-starterify
+debug.log
+*.sublime-project
+*.sublime-workspace
